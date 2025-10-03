@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DimitarBorisov87
-- 🌱 I’m currently learning Programming Fundamentals with Python
+- 🌱 I’m currently learning Programming Advanced with Python
 
 <!---
 DimitarBorisov87/DimitarBorisov87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
